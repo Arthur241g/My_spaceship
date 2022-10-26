@@ -1,19 +1,19 @@
-# Welcome to My Spaceship
+# Welcome to My Moving Box Realtime
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The problem are the resolve the challenge of to reproduct a orthonormed lair.
 
 ## Description
-TODO - How have you solved the problem?
+I have solved the problem in using the differents functions like command.split
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+I dowload the package of application inline
 
 ## Usage
 TODO - How does it work?
 ```
-./my_project argument1 argument2
+./my_project ex00 my_spaceship.js
 ```
 
 ### The Core Team
